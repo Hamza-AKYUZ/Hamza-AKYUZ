@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, <img src=" https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> I'm a Full-Stack Developer 
+# Hi there, I'm a Full-Stack Developer 
 
 ### Welcome to my GitHub profile! Passionate about building web apps, backend systems, and solving complex problems.
 
@@ -13,8 +13,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="28">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="28">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" height="28">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" height="28">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" height="28">
+
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="28">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" height="28">
 </p>
 
 ###  Frontend Development
@@ -23,6 +25,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="28">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="28">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" height="28">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" height="28">
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black" alt="EJS" height="28">
 </p>
 
@@ -46,7 +49,9 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" height="28">
 </p>
 
-
+---
 
 ###  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-AKYUZ&show_icons=true&theme=tokyonight&hide_border=true)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamza-AKYUZ&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>

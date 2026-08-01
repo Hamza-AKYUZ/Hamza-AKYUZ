@@ -1,14 +1,9 @@
 ## Hi there 👋
 
 ### 🚀 Languages & Programming
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="html5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35" alt="css3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="35" alt="csharp" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="35" alt="lua" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,csharp,lua,react,tailwind,nodejs,express,mysql,git,github,vscode,postman,npm,cpanel,plesk,vercel,arduino" />
+</a>
 
 ### 💻 Frontend Development
 <p align="left">

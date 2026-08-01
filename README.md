@@ -49,6 +49,4 @@
 
 
 ###  GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamza-AKYUZ&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true)
